@@ -1,0 +1,1 @@
+console.log("hi kenalin aku bima")
